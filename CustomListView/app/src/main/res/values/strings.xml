@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Custom List View</string>
+
+    <string name="holder">Bế Chí Kiên</string>
+
+    <string name="action_ok">Đồng ý</string>
+    <string name="action_delete">Xóa</string>
+    <string name="action_cancel">Hủy</string>
+    <string name="action_book_booking">Đặt Sách</string>
+    <string name="action_update">Cập Nhật</string>
+    <string name="action_view">Hiển thị</string>
+    <string name="action_add">Thêm</string>
+    <string name="action_add_bookworm">Nhập độc giả</string>
+
+    <string name="hint_nation_name">Tên quốc gia</string>
+    <string name="hint_nation_currency">Mệnh giá lưu hành</string>
+
+    <string name="msg_waiting">Xin chờ…</string>
+    <string name="msg_confirmation_deleting">Xóa?</string>
+    <string name="msg_confirmation_app_quitting">Thoát ứng dụng?</string>
+    <string name="msg_confirmation_add">Thêm?</string>
+    <string name="msg_error_occurred">Lỗi!!!</string>
+
+    <string name="label_class">KTPM - K19A</string>
+    <string name="label_list_of_book">Danh sách Sách đã đặt: </string>
+    <string name="label_list_of_bookworm">Danh sách độc giả</string>
+    <string name="label_book_ticket">Phiếu mua sách</string>
+    <string name="label_book_name">Tên sách: </string>
+    <string name="label_text_book">Giáo khoa</string>
+    <string name="label_novel">Tiểu thuyết</string>
+    <string name="label_science_book">Khoa học</string>
+    <string name="label_psychology_book">Tâm lý</string>
+    <string name="label_bookworm_management">Quản lý độc giả</string>
+    <string name="label_sex">Giới tính: </string>
+    <string name="label_sex_male">Nam</string>
+    <string name="label_sex_female">Nữ</string>
+    <string name="label_bookworm_name">Tên độc giả: </string>
+    <string name="label_bookworm_code">Mã độc giả: </string>
+    <string name="label_exe_banner">Bài Tập CustomListView</string>
+
+    <string name="label_first_exe">Phiếu Mua Sách</string>
+    <string name="label_second_exe">Lá Cờ Quốc Gia</string>
+    <string name="label_third_exe">Độc Giả Thể Loại Sách</string>
+    <string name="update">Update</string>
+    <string name="add">Add</string>
+    <string name="view">View</string>
+    <string name="nation">nation</string>
+    <string name="currency">currency</string>
+    <string name="todo">TODO</string>
+
+</resources>
